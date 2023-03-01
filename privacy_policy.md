@@ -1,6 +1,6 @@
 # PRIVACY POLICY
 
-Last updated February 27, 2023
+Last updated March 1, 2023
 
 This privacy notice for Satoshi Tagomori ("we," "us," or "our"), describes how and why we might collect, store, use, and/or share ("process") your information when you use our services ("Services"), such as when you:
 
