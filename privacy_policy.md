@@ -264,7 +264,7 @@ If this definition of "resident" applies to you, we must adhere to certain right
 
 We have collected the following categories of personal information in the past twelve (12) months:
 
-<table>
+<table class="table is-hoverable">
   <thead>
     <tr>
       <th>Category</th><th>Examples</th><th>Collected</th>
