@@ -90,7 +90,7 @@ This information is primarily needed to maintain the security and operation of o
 
 All personal information that you provide to us must be true, complete, and accurate, and you must notify us of any changes to such personal information.
 
-<a name="#2-how-do-we-process-your-information"></a>
+<a name="2-how-do-we-process-your-information"></a>
 
 ## 2. HOW DO WE PROCESS YOUR INFORMATION?
 
