@@ -350,7 +350,7 @@ We may also collect other personal information outside of these categories throu
 
 More information about our data collection and sharing practices can be found in this privacy notice.
 
-You may contact us by email at support@pathtraq.tagomor.is, or by referring to the contact details at the bottom of this document.
+You may contact us by email at privacy@pathtraq.tagomor.is, or by referring to the contact details at the bottom of this document.
 
 If you are using an authorized agent to exercise your right to opt out we may deny a request if the authorized agent does not submit proof that they have been validly authorized to act on your behalf.
 
@@ -421,7 +421,7 @@ We will only use personal information provided in your request to verify your id
 - You can designate an authorized agent to make a request under the CCPA on your behalf. We may deny a request from an authorized agent that does not submit proof that they have been validly authorized to act on your behalf in accordance with the CCPA.
 - You may request to opt out from future selling or sharing of your personal information to third parties. Upon receiving an opt-out request, we will act upon the request as soon as feasibly possible, but no later than fifteen (15) days from the date of the request submission.
 
-To exercise these rights, you can contact us by email at support@pathtraq.tagomor.is, or by referring to the contact details at the bottom of this document. If you have a complaint about how we handle your data, we would like to hear from you.
+To exercise these rights, you can contact us by email at privacy@pathtraq.tagomor.is, or by referring to the contact details at the bottom of this document. If you have a complaint about how we handle your data, we would like to hear from you.
 
 <a name="13-do-virginia-residents-have-specific-privacy-rights"></a>
 
@@ -488,7 +488,7 @@ We may update this privacy notice from time to time. The updated version will be
 
 ## 15. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 
-If you have questions or comments about this notice, you may email us at support@pathtraq.tagomor.is.
+If you have questions or comments about this notice, you may email us at privacy@pathtraq.tagomor.is.
 
 <a name="16-how-can-you-review-update-or-delete-the-data-we-collect-from-you"></a>
 
