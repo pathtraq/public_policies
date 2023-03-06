@@ -118,9 +118,7 @@ The General Data Protection Regulation (GDPR) and UK GDPR require us to explain 
 
 - **Consent.** We may process your information if you have given us permission (i.e., consent) to use your personal information for a specific purpose. You can withdraw your consent at any time. Click [here](#withdrawing-your-consent) to learn more.
 - **Performance of a Contract.** We may process your personal information when we believe it is necessary to fulfill our contractual obligations to you, including providing our Services or at your request prior to entering into a contract with you.
-- **Legitimate Interests.** We may process your information when we believe it is reasonably necessary to achieve our legitimate business interests and those interests do not outweigh your interests and fundamental rights and freedoms. For example, we may process your personal information for some of the purposes described in order to:
-  - Send users information about special offers and discounts on our products and services
-  - Analyze how our Services are used so we can improve them to engage and retain users
+- **Legitimate Interests.** We may process your information when we believe it is reasonably necessary to achieve our legitimate business interests and those interests do not outweigh your interests and fundamental rights and freedoms. For example, we may process your personal information for some of the purposes described in order to (A) send users information about special offers and discounts on our products and services, and/or (B) analyze how our Services are used so we can improve them to engage and retain users.
 - **Legal Obligations.** We may process your information where we believe it is necessary for compliance with our legal obligations, such as to cooperate with a law enforcement body or regulatory agency, exercise or defend our legal rights, or disclose your information as evidence in litigation in which we are involved.
 - **Vital Interests.** We may process your information where we believe it is necessary to protect your vital interests or the vital interests of a third party, such as situations involving potential threats to the safety of any person.
 
@@ -221,7 +219,7 @@ If you are located in Switzerland, the contact details for the data protection a
 
 However, please note that this will not affect the lawfulness of the processing before its withdrawal nor, when applicable law allows, will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.
 
-**Opting out of marketing and promotional communications**: You can unsubscribe from our marketing and promotional communications at any time by Disabling the location-based promotions on the app, or by contacting us using the details provided in the section ["HOW CAN YOU CONTACT US ABOUT THIS NOTICE?"](#15-how-can-you-contact-us-about-this-notice) below. You will then be removed from the marketing lists. However, we may still communicate with you — for example, to send you service-related messages that are necessary for the administration and use of your account, to respond to service requests, or for other non-marketing purposes.
+**Opting out of marketing and promotional communications**: You can unsubscribe from our marketing and promotional communications at any time by disabling the location-based promotions on the app, or by contacting us using the details provided in the section ["HOW CAN YOU CONTACT US ABOUT THIS NOTICE?"](#15-how-can-you-contact-us-about-this-notice) below. You will then be removed from the marketing lists. However, we may still communicate with you — for example, to send you service-related messages that are necessary for the administration and use of your account, to respond to service requests, or for other non-marketing purposes.
 
 ### Account Information
 
