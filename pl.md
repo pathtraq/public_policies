@@ -13,25 +13,25 @@ This privacy notice for Satoshi Tagomori ("we," "us," or "our"), describes how a
 
 ## SUMMARY OF KEY POINTS
 
-***This summary provides key points from our privacy notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our table of contents below to find the section you are looking for. You can also click [here](#table-of-contents) to go directly to our table of contents.***
+***This summary provides key points from our privacy notice, but you can find out more details about any of these topics by seeing the sections of each key point or by using our table of contents below to find the section you are looking for.***
 
-**What personal information do we process?** When you visit, use, or navigate our Services, we may process personal information depending on how you interact with Satoshi Tagomori and the Services, the choices you make, and the products and features you use. Click [here](#personal-information-you-disclose-to-us) to learn more.
+**What personal information do we process?** When you visit, use, or navigate our Services, we may process personal information depending on how you interact with Satoshi Tagomori and the Services, the choices you make, and the products and features you use. See the section ["Personal information you disclose to us"](#personal-information-you-disclose-to-us) to learn more.
 
-**Do we process any sensitive personal information?** We may process sensitive personal information when necessary with your consent or as otherwise permitted by applicable law. Click [here](#sensitive-information) to learn more.
+**Do we process any sensitive personal information?** We may process sensitive personal information when necessary with your consent or as otherwise permitted by applicable law. See the section ["Sensitive Information"](#sensitive-information) to learn more.
 
 **Do we receive any information from third parties?** We do not receive any information from third parties.
 
-**How do we process your information?** We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. Click [here](#2-how-do-we-process-your-information) to learn more.
+**How do we process your information?** We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. See the section ["2. HOW DO WE PROCESS YOUR INFORMATION?"](#2-how-do-we-process-your-information) to learn more.
 
-**In what situations and with which parties do we share personal information?** We may share information in specific situations and with specific third parties. Click [here](#4-when-and-with-whom-do-we-share-your-personal-information) to learn more.
+**In what situations and with which parties do we share personal information?** We may share information in specific situations and with specific third parties. See the section ["4. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?"](#4-when-and-with-whom-do-we-share-your-personal-information) to learn more.
 
-**How do we keep your information safe?** We have organizational and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Click [here](#8-how-do-we-keep-your-information-safe) to learn more.
+**How do we keep your information safe?** We have organizational and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. See the section ["8. HOW DO WE KEEP YOUR INFORMATION SAFE?"](#8-how-do-we-keep-your-information-safe) to learn more.
 
-**What are your rights?** Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Click [here](#10-what-are-your-privacy-rights) to learn more.
+**What are your rights?** Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. See the section ["10. WHAT ARE YOUR PRIVACY RIGHTS?"](#10-what-are-your-privacy-rights) to learn more.
 
 **How do you exercise your rights?** The easiest way to exercise your rights is by filling out our data subject request form available here: privacy@pathtraq.tagomor.is, or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.
 
-Want to learn more about what Satoshi Tagomori does with any information we collect? Click [here](#table-of-contents) to review the notice in full.
+Want to learn more about what Satoshi Tagomori does with any information we collect? See the [TABLE OF CONTENTS](#table-of-contents) to review the notice in full.
 
 ## TABLE OF CONTENTS
 
@@ -106,7 +106,7 @@ _If you are located in the EU or UK, this section applies to you._
 
 The General Data Protection Regulation (GDPR) and UK GDPR require us to explain the valid legal bases we rely on in order to process your personal information. As such, we may rely on the following legal bases to process your personal information:
 
-- **Consent.** We may process your information if you have given us permission (i.e., consent) to use your personal information for a specific purpose. You can withdraw your consent at any time. Click [here](#withdrawing-your-consent) to learn more.
+- **Consent.** We may process your information if you have given us permission (i.e., consent) to use your personal information for a specific purpose. You can withdraw your consent at any time. See the section ["Withdrawing your consent"](#withdrawing-your-consent) to learn more.
 - **Performance of a Contract.** We may process your personal information when we believe it is necessary to fulfill our contractual obligations to you, including providing our Services or at your request prior to entering into a contract with you.
 - **Legitimate Interests.** We may process your information when we believe it is reasonably necessary to achieve our legitimate business interests and those interests do not outweigh your interests and fundamental rights and freedoms. For example, we may process your personal information for some of the purposes described in order to (A) send users information about special offers and discounts on our products and services, and/or (B) analyze how our Services are used so we can improve them to engage and retain users.
 - **Legal Obligations.** We may process your information where we believe it is necessary for compliance with our legal obligations, such as to cooperate with a law enforcement body or regulatory agency, exercise or defend our legal rights, or disclose your information as evidence in litigation in which we are involved.
@@ -114,7 +114,7 @@ The General Data Protection Regulation (GDPR) and UK GDPR require us to explain 
 
 _If you are located in Canada, this section applies to you._
 
-We may process your information if you have given us specific permission (i.e., express consent) to use your personal information for a specific purpose, or in situations where your permission can be inferred (i.e., implied consent). You can withdraw your consent at any time. Click [here](#withdrawing-your-consent) to learn more.
+We may process your information if you have given us specific permission (i.e., express consent) to use your personal information for a specific purpose, or in situations where your permission can be inferred (i.e., implied consent). You can withdraw your consent at any time. See the section ["Withdrawing your consent"](#withdrawing-your-consent) to learn more.
 
 In some exceptional cases, we may be legally permitted under applicable law to process your information without your consent, including, for example:
 - If collection is clearly in the interests of an individual and consent cannot be obtained in a timely way
