@@ -13,27 +13,25 @@ This privacy notice for Satoshi Tagomori ("we," "us," or "our"), describes how a
 
 ## SUMMARY OF KEY POINTS
 
-***This summary provides key points from our privacy notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our table of contents below to find the section you are looking for. You can also click [here](#table-of-contents) to go directly to our table of contents.***
+***This summary provides key points from our privacy notice, but you can find out more details about any of these topics by seeing the sections of each key point or by using our table of contents below to find the section you are looking for.***
 
-**What personal information do we process?** When you visit, use, or navigate our Services, we may process personal information depending on how you interact with Satoshi Tagomori and the Services, the choices you make, and the products and features you use. Click [here](#personal-information-you-disclose-to-us) to learn more.
+**What personal information do we process?** When you visit, use, or navigate our Services, we may process personal information depending on how you interact with Satoshi Tagomori and the Services, the choices you make, and the products and features you use. See the section ["Personal information you disclose to us"](#personal-information-you-disclose-to-us) to learn more.
 
-**Do we process any sensitive personal information?** We may process sensitive personal information when necessary with your consent or as otherwise permitted by applicable law. Click [here](#sensitive-information) to learn more.
+**Do we process any sensitive personal information?** We may process sensitive personal information when necessary with your consent or as otherwise permitted by applicable law. See the section ["Sensitive Information"](#sensitive-information) to learn more.
 
 **Do we receive any information from third parties?** We do not receive any information from third parties.
 
-**How do we process your information?** We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. Click [here](#2-how-do-we-process-your-information) to learn more.
+**How do we process your information?** We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. See the section ["2. HOW DO WE PROCESS YOUR INFORMATION?"](#2-how-do-we-process-your-information) to learn more.
 
-**In what situations and with which parties do we share personal information?** We may share information in specific situations and with specific third parties. Click [here](#4-when-and-with-whom-do-we-share-your-personal-information) to learn more.
+**In what situations and with which parties do we share personal information?** We may share information in specific situations and with specific third parties. See the section ["4. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?"](#4-when-and-with-whom-do-we-share-your-personal-information) to learn more.
 
-**How do we keep your information safe?** We have organizational and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Click [here](#8-how-do-we-keep-your-information-safe) to learn more.
+**How do we keep your information safe?** We have organizational and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. See the section ["8. HOW DO WE KEEP YOUR INFORMATION SAFE?"](#8-how-do-we-keep-your-information-safe) to learn more.
 
-**What are your rights?** Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Click [here](#10-what-are-your-privacy-rights) to learn more.
+**What are your rights?** Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. See the section ["10. WHAT ARE YOUR PRIVACY RIGHTS?"](#10-what-are-your-privacy-rights) to learn more.
 
 **How do you exercise your rights?** The easiest way to exercise your rights is by filling out our data subject request form available here: privacy@pathtraq.tagomor.is, or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.
 
-Want to learn more about what Satoshi Tagomori does with any information we collect? Click [here](#table-of-contents) to review the notice in full.
-
-<a name="table-of-contents"></a>
+Want to learn more about what Satoshi Tagomori does with any information we collect? See the [TABLE OF CONTENTS](#table-of-contents) to review the notice in full.
 
 ## TABLE OF CONTENTS
 
@@ -55,11 +53,7 @@ Want to learn more about what Satoshi Tagomori does with any information we coll
 16. [HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?](#16-how-can-you-review-update-or-delete-the-data-we-collect-from-you)
 
 
-<a name="1-what-information-do-we-collect"></a>
-
 ## 1. WHAT INFORMATION DO WE COLLECT?
-
-<a name="personal-information-you-disclose-to-us"></a>
 
 ### Personal information you disclose to us
 
@@ -72,9 +66,9 @@ We collect personal information that you voluntarily provide to us when you regi
 - usernames
 - email addresses
 
-<a name="sensitive-information"></a>
+### Sensitive Information
 
-**Sensitive Information.** When necessary, with your consent or as otherwise permitted by applicable law, we process the following categories of sensitive information:
+When necessary, with your consent or as otherwise permitted by applicable law, we process the following categories of sensitive information:
 
 - geographical locations
 
@@ -90,8 +84,6 @@ This information is primarily needed to maintain the security and operation of o
 
 All personal information that you provide to us must be true, complete, and accurate, and you must notify us of any changes to such personal information.
 
-<a name="2-how-do-we-process-your-information"></a>
-
 ## 2. HOW DO WE PROCESS YOUR INFORMATION?
 
 ***In Short***: _We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent._
@@ -106,8 +98,6 @@ All personal information that you provide to us must be true, complete, and accu
 - **To identify usage trends.** We may process information about how you use our Services to better understand how they are being used so we can improve them.
 - **To save or protect an individual's vital interest.** We may process your information when necessary to save or protect an individual’s vital interest, such as to prevent harm.
 
-<a name="3-what-legal-bases-do-we-rely-on-to-process-your-information"></a>
-
 ## 3. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR INFORMATION?
 
 ***In Short***: _We only process your personal information when we believe it is necessary and we have a valid legal reason (i.e., legal basis) to do so under applicable law, like with your consent, to comply with laws, to provide you with services to enter into or fulfill our contractual obligations, to protect your rights, or to fulfill our legitimate business interests._
@@ -116,7 +106,7 @@ _If you are located in the EU or UK, this section applies to you._
 
 The General Data Protection Regulation (GDPR) and UK GDPR require us to explain the valid legal bases we rely on in order to process your personal information. As such, we may rely on the following legal bases to process your personal information:
 
-- **Consent.** We may process your information if you have given us permission (i.e., consent) to use your personal information for a specific purpose. You can withdraw your consent at any time. Click [here](#withdrawing-your-consent) to learn more.
+- **Consent.** We may process your information if you have given us permission (i.e., consent) to use your personal information for a specific purpose. You can withdraw your consent at any time. See the section ["Withdrawing your consent"](#withdrawing-your-consent) to learn more.
 - **Performance of a Contract.** We may process your personal information when we believe it is necessary to fulfill our contractual obligations to you, including providing our Services or at your request prior to entering into a contract with you.
 - **Legitimate Interests.** We may process your information when we believe it is reasonably necessary to achieve our legitimate business interests and those interests do not outweigh your interests and fundamental rights and freedoms. For example, we may process your personal information for some of the purposes described in order to (A) send users information about special offers and discounts on our products and services, and/or (B) analyze how our Services are used so we can improve them to engage and retain users.
 - **Legal Obligations.** We may process your information where we believe it is necessary for compliance with our legal obligations, such as to cooperate with a law enforcement body or regulatory agency, exercise or defend our legal rights, or disclose your information as evidence in litigation in which we are involved.
@@ -124,7 +114,7 @@ The General Data Protection Regulation (GDPR) and UK GDPR require us to explain 
 
 _If you are located in Canada, this section applies to you._
 
-We may process your information if you have given us specific permission (i.e., express consent) to use your personal information for a specific purpose, or in situations where your permission can be inferred (i.e., implied consent). You can withdraw your consent at any time. Click [here](#withdrawing-your-consent) to learn more.
+We may process your information if you have given us specific permission (i.e., express consent) to use your personal information for a specific purpose, or in situations where your permission can be inferred (i.e., implied consent). You can withdraw your consent at any time. See the section ["Withdrawing your consent"](#withdrawing-your-consent) to learn more.
 
 In some exceptional cases, we may be legally permitted under applicable law to process your information without your consent, including, for example:
 - If collection is clearly in the interests of an individual and consent cannot be obtained in a timely way
@@ -139,8 +129,6 @@ In some exceptional cases, we may be legally permitted under applicable law to p
 - If the collection is solely for journalistic, artistic, or literary purposes
 - If the information is publicly available and is specified by the regulations
 
-<a name="4-when-and-with-whom-do-we-share-your-personal-information"></a>
-
 ## 4. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
 
 ***In Short***: _We may share information in specific situations described in this section and/or with the following third parties._
@@ -149,8 +137,6 @@ We may need to share your personal information in the following situations:
 
 - **Business Transfers.** We may share or transfer your information in connection with, or during negotiations of, any merger, sale of assets, financing, or acquisition of all or a portion of our business to another company.
 
-<a name="5-how-do-we-handle-your-social-logins"></a>
-
 ## 5. HOW DO WE HANDLE YOUR SOCIAL LOGINS?
 
 ***In Short***: _If you choose to register or log in to our Services using a social media account, we may have access to certain information about you._
@@ -158,8 +144,6 @@ We may need to share your personal information in the following situations:
 Our Services offer you the ability to register and log in using your third-party social media account details (like your Facebook or Twitter logins). Where you choose to do this, we will receive certain profile information about you from your social media provider. The profile information we receive may vary depending on the social media provider concerned, but will often include your name, email address, friends list, and profile picture, as well as other information you choose to make public on such a social media platform.
 
 We will use the information we receive only for the purposes that are described in this privacy notice or that are otherwise made clear to you on the relevant Services. Please note that we do not control, and are not responsible for, other uses of your personal information by your third-party social media provider. We recommend that you review their privacy notice to understand how they collect, use, and share your personal information, and how you can set your privacy preferences on their sites and apps.
-
-<a name="6-is-your-information-transferred-internationally"></a>
 
 ## 6. IS YOUR INFORMATION TRANSFERRED INTERNATIONALLY?
 
@@ -173,8 +157,6 @@ European Commission's Standard Contractual Clauses:
 
 We have implemented measures to protect your personal information, including by using the European Commission's Standard Contractual Clauses for transfers of personal information between our group companies and between us and our third-party providers. These clauses require all recipients to protect all personal information that they process originating from the EEA or UK in accordance with European data protection laws and regulations. Our Standard Contractual Clauses can be provided upon request. We have implemented similar appropriate safeguards with our third-party service providers and partners and further details can be provided upon request.
 
-<a name="7-how-long-do-we-keep-your-information"></a>
-
 ## 7. HOW LONG DO WE KEEP YOUR INFORMATION?
 
 ***In Short***: _We keep your information for as long as necessary to fulfill the purposes outlined in this privacy notice unless otherwise required by law._
@@ -183,23 +165,17 @@ We will only keep your personal information for as long as it is necessary for t
 
 When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize such information, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
 
-<a name="8-how-do-we-keep-your-information-safe"></a>
-
 ## 8. HOW DO WE KEEP YOUR INFORMATION SAFE?
 
 ***In Short***: _We aim to protect your personal information through a system of organizational and technical security measures._
 
 We have implemented appropriate and reasonable technical and organizational security measures designed to protect the security of any personal information we process. However, despite our safeguards and efforts to secure your information, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Although we will do our best to protect your personal information, transmission of personal information to and from our Services is at your own risk. You should only access the Services within a secure environment.
 
-<a name="9-do-we-collect-information-from-minors"></a>
-
 ## 9. DO WE COLLECT INFORMATION FROM MINORS?
 
 ***In Short***: _We do not knowingly collect data from or market to children under 18 years of age._
 
 We do not knowingly solicit data from or market to children under 18 years of age. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at support@pathtraq.tagomor.is.
-
-<a name="10-what-are-your-privacy-rights"></a>
 
 ## 10. WHAT ARE YOUR PRIVACY RIGHTS?
 
@@ -213,9 +189,9 @@ If you are located in the EEA or UK and you believe we are unlawfully processing
 
 If you are located in Switzerland, the contact details for the data protection authorities are available here: https://www.edoeb.admin.ch/edoeb/en/home.html.
 
-<a name="withdrawing-your-consent"></a>
+### Withdrawing Your Consent
 
-**Withdrawing your consent**: If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact details provided in the section ["HOW CAN YOU CONTACT US ABOUT THIS NOTICE?"](#15-how-can-you-contact-us-about-this-notice) below.
+If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact details provided in the section ["HOW CAN YOU CONTACT US ABOUT THIS NOTICE?"](#15-how-can-you-contact-us-about-this-notice) below.
 
 However, please note that this will not affect the lawfulness of the processing before its withdrawal nor, when applicable law allows, will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.
 
@@ -231,13 +207,9 @@ Upon your request to terminate your account, we will deactivate or delete your a
 
 If you have questions or comments about your privacy rights, you may email us at privacy@pathtraq.tagomor.is.
 
-<a name="11-controls-for-do-not-track-features"></a>
-
 ## 11. CONTROLS FOR DO-NOT-TRACK FEATURES
 
 Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track ("DNT") feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. At this stage no uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this privacy notice.
-
-<a name="12-do-california-residents-have-specific-privacy-rights"></a>
 
 ## 12. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
 
@@ -262,75 +234,20 @@ If this definition of "resident" applies to you, we must adhere to certain right
 
 We have collected the following categories of personal information in the past twelve (12) months:
 
-<table class="table is-hoverable">
-  <thead>
-    <tr>
-      <th>Category</th><th>Examples</th><th>Collected</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>A. Identifiers</td>
-      <td>Contact details, such as real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account name</td>
-      <td>YES</td>
-    </tr>
-    <tr>
-      <td>B. Personal information categories listed in the California Customer Records statute</td>
-      <td>Name, contact information, education, employment, employment history, and financial information</td>
-      <td>NO</td>
-    </tr>
-    <tr>
-      <td>C. Protected classification characteristics under California or federal law</td>
-      <td>Gender and date of birth</td>
-      <td>NO</td>
-    </tr>
-    <tr>
-      <td>D. Commercial information</td>
-      <td>Transaction information, purchase history, financial details, and payment information</td>
-      <td>NO</td>
-    </tr>
-    <tr>
-      <td>E. Biometric information</td>
-      <td>Fingerprints and voiceprints</td>
-      <td>NO</td>
-    </tr>
-    <tr>
-      <td>F. Internet or other similar network activity</td>
-      <td>Browsing history, search history, online behavior, interest data, and interactions with our and other websites, applications, systems, and advertisements</td>
-      <td>NO</td>
-    </tr>
-    <tr>
-      <td>G. Geolocation data</td>
-      <td>Device location</td>
-      <td>YES</td>
-    </tr>
-    <tr>
-      <td>H. Audio, electronic, visual, thermal, olfactory, or similar information</td>
-      <td>Images and audio, video or call recordings created in connection with our business activities</td>
-      <td>NO</td>
-    </tr>
-    <tr>
-      <td>I. Professional or employment-related information</td>
-      <td>Business contact details in order to provide you our Services at a business level or job title, work history, and professional qualifications if you apply for a job with us</td>
-      <td>NO</td>
-    </tr>
-    <tr>
-      <td>J. Education Information</td>
-      <td>Student records and directory information</td>
-      <td>NO</td>
-    </tr>
-    <tr>
-      <td>K. Inferences drawn from other personal information</td>
-      <td>Inferences drawn from any of the collected personal information listed above to create a profile or summary about, for example, an individual’s preferences and characteristics</td>
-      <td>NO</td>
-    </tr>
-    <tr>
-      <td>L. Sensitive Personal Information</td>
-      <td>Precise geolocation</td>
-      <td>YES</td>
-    </tr>
-  </tbody>
-</table>
+|Category|Examples|Collected|
+|--------|--------|---------|
+|A. Identifiers|Contact details, such as real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account name|YES|
+|B. Personal information categories listed in the California Customer Records statute|Name, contact information, education, employment, employment history, and financial information|NO|
+|C. Protected classification characteristics under California or federal law|Gender and date of birth|NO|
+|D. Commercial information|Transaction information, purchase history, financial details, and payment information|NO|
+|E. Biometric information|Fingerprints and voiceprints|NO|
+|F. Internet or other similar network activity|Browsing history, search history, online behavior, interest data, and interactions with our and other websites, applications, systems, and advertisements|NO|
+|G. Geolocation data|Device location|YES|
+|H. Audio, electronic, visual, thermal, olfactory, or similar information|Images and audio, video or call recordings created in connection with our business activities|NO|
+|I. Professional or employment-related information|Business contact details in order to provide you our Services at a business level or job title, work history, and professional qualifications if you apply for a job with us|NO|
+|J. Education Information|Student records and directory information|NO|
+|K. Inferences drawn from other personal information|Inferences drawn from any of the collected personal information listed above to create a profile or summary about, for example, an individual’s preferences and characteristics|NO|
+|L. Sensitive Personal Information|Precise geolocation|YES|
 
 We will use and retain the collected personal information as needed to provide the Services or for:
 
@@ -423,8 +340,6 @@ We will only use personal information provided in your request to verify your id
 
 To exercise these rights, you can contact us by email at privacy@pathtraq.tagomor.is, or by referring to the contact details at the bottom of this document. If you have a complaint about how we handle your data, we would like to hear from you.
 
-<a name="13-do-virginia-residents-have-specific-privacy-rights"></a>
-
 ## 13. DO VIRGINIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
 
 ***In Short***: _Yes, if you are a resident of Virginia, you may be granted specific rights regarding access to and use of your personal information._
@@ -476,21 +391,15 @@ Upon receiving your request, we will respond without undue delay, but in all cas
 
 If we decline to take action regarding your request, we will inform you of our decision and reasoning behind it. If you wish to appeal our decision, please email us at privacy@pathtraq.tagomor.is. Within sixty (60) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal if denied, you may contact the Attorney General to [submit a complaint](https://www.oag.state.va.us/consumer-protection/index.php/file-a-complaint).
 
-<a name="14-do-we-make-updates-to-this-notice"></a>
-
 ## 14. DO WE MAKE UPDATES TO THIS NOTICE?
 
 ***In Short***: _Yes, we will update this notice as necessary to stay compliant with relevant laws._
 
 We may update this privacy notice from time to time. The updated version will be indicated by an updated "Revised" date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy notice frequently to be informed of how we are protecting your information.
 
-<a name="15-how-can-you-contact-us-about-this-notice"></a>
-
 ## 15. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 
 If you have questions or comments about this notice, you may email us at privacy@pathtraq.tagomor.is.
-
-<a name="16-how-can-you-review-update-or-delete-the-data-we-collect-from-you"></a>
 
 ## 16. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 
